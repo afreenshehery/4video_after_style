@@ -1,0 +1,29 @@
+.fullpage{
+    width: 100%;
+    height:100% ;
+   position: fixed;
+}
+
+.row{
+    height: 50%;
+    
+   
+}
+.col-6{
+    height:32rem;
+  
+  
+}
+img{
+    width: 100%;
+    height: 100%;
+   
+    
+}
+button{
+    width:1080px;
+    height: 
+    1920;
+    border: none;
+}
+
